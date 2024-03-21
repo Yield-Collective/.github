@@ -1,6 +1,6 @@
 <span align="center">
   
-# Yield Protocol
+# Yield Collective
 
 <span align="center">
 <div align="center">   
@@ -12,15 +12,8 @@
 ![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/bitcoin) 
 ![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/ethereum)
 
-<div align="center">
-    <a align="center" href="https://yieldprotocol.xyz" target="_blank">
-      <img src="[https://www.yieldprotocol.xyz/yield.svg]" alt="Yield Protocol" height=175/>
-  
-# Yield Optimization for DeFi
+# Yield Collective [App](https://yieldcollective.xyz)
 
-![Yield Protocol GitHub Metrics](/profile/metrics.svg)
- 
-
-# Yield Protocol [App](https://yieldprotocol.xyz)
+### Yield Optimization for DeFi
 
 </span>
